@@ -35,6 +35,4 @@ JUnit 5 • Mockito • pytest
 
 ## Contact
 
-LinkedIn: [https://www.linkedin.com/in/liza-kolosova-5408652b3)
-Email: lzkolosova@gmail.com
----
+Open to software engineering and data science opportunities. Feel free to reach out via LinkedIn or email.
