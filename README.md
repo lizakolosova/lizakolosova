@@ -32,7 +32,3 @@ Hexagonal Architecture • Domain-Driven Design • Microservices • REST API D
 
 **Testing**  
 JUnit 5 • Mockito • pytest
-
-## Contact
-
-Open to software engineering and data science opportunities. Feel free to reach out via LinkedIn or email.
