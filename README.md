@@ -1,34 +1,38 @@
 # Liza Kolosova
 
-**Software Engineer** | Backend Development • Data Science • DevOps
+CS student at Karel de Grote University (Antwerp), AI major. Graduating 2025/2026.
 
-Applied Computer Science @ Karel de Grote University College, Antwerp
+I mostly work on ML systems, building pipelines, connecting data to models, getting things to actually run in production. Also have a backend background in Java and Python, which comes in handy.
 
 ---
 
-## About
+## Projects
 
-Software engineer focused on backend development and machine learning. I work primarily with Java and Spring Boot for building robust APIs and services, and Python for data science and ML projects. I have experience designing systems with hexagonal architecture and DDD, deploying applications with Docker and Nginx, and integrating ML models into production environments.
+**[Logistics Document Intelligence](https://github.com/lizakolosova/logistics-doc-rag-assistant)** — RAG pipeline for document analysis. Hybrid retrieval (dense + BM25), reranking, RAGAS evaluation, Dockerized.
 
-## Technical Skills
+**Real-time energy price predictor** *(in progress)* — Kafka → Airflow → MLflow, with live monitoring and automated model promotion.
 
-**Backend Development**  
-Java 17 • Spring Boot 3 • Spring Security • Spring Data JPA • Hibernate • REST APIs • FastAPI • Flask • RabbitMQ • WebSocket
+**[News Checker Agents](https://github.com/lizakolosova/news-checker-agents)** — multi-agent fact-checking system.
 
-**Frontend Development**  
-React • TypeScript • JavaScript • Thymeleaf • HTML • CSS • SCSS • Bootstrap
+**[EuroSAT Image Analysis](https://github.com/lizakolosova/EuroSAT-image-analysis)** — land use classification from satellite imagery with PyTorch.
 
-**Data Science & Machine Learning**  
-Python • PyTorch • Hugging Face Transformers • SpaCy • scikit-learn • Pandas • NumPy • MLflow • DVC • LLMs
+**[Machine Learning Lifecycle](https://github.com/lizakolosova/machine-learning-lifecycle)** — end-to-end pipeline from EDA to deployment.
 
-**Databases**  
-PostgreSQL • H2
+**[Bike Sharing Data Warehouse](https://github.com/lizakolosova/bike-sharing-data-warehouse)** — warehouse design and analytics.
 
-**DevOps & Infrastructure**  
-Docker • Docker Compose • Nginx • GitLab CI/CD • Azure • Linux • Bash • SSL/TLS
+**[European Energy Market Dashboard](https://github.com/lizakolosova/european-energy-market-analysis-dashboard)** — market data analysis and visualization.
 
-**Architecture & Practices**  
-Hexagonal Architecture • Domain-Driven Design • Microservices • REST API Design • Test-Driven Development
+**[ABSA Project](https://github.com/lizakolosova/ABSA-project)** — aspect-based sentiment analysis with Transformers.
 
-**Testing**  
-JUnit 5 • Mockito • pytest
+**[Mountain Car RL](https://github.com/lizakolosova/mountain-car-reinforcement-learning)** — reinforcement learning for continuous control.
+
+---
+
+## Stack
+
+Python · Java · SQL · PyTorch · scikit-learn · Hugging Face · LangChain · FastAPI · Spring Boot  
+MLflow · Airflow · Kafka · Docker · PostgreSQL · Hadoop · Spark
+
+---
+
+📍 Antwerp, Belgium · [LinkedIn](https://www.linkedin.com/in/liza-kolosova/)
