@@ -68,8 +68,6 @@ Most of my days are a mix of data, models and plumbing: figuring out what a busi
 - ☕ Runs on structure and an unreasonable amount of coffee
 - 💬 English · Ukrainian · Russian · Dutch (learning)
 
-Open to interesting freelance and consulting projects — [reach out](https://www.linkedin.com/in/liza-kolosova/).
-
 ---
 
 📍 Antwerp · [LinkedIn](https://www.linkedin.com/in/liza-kolosova/)
